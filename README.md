@@ -1,7 +1,7 @@
 # Online IDE
-# Cloud-Based IDE (repl.it Clone)
 
-A minimal cloud-based IDE with code execution, real-time collaboration, and user authentication.
+
+A minimal cloud-based IDE with code execution.
 
 <!-- Add your screenshot later -->
 
