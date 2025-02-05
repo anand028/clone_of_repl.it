@@ -3,9 +3,11 @@ import CodeEditor from './components/Editor.tsx';
 
 export default function App() {
   return (
-    <div style={{ padding: '20px' }}>
+    <div >
+     
       <h1>Cloud IDE</h1>
-      <CodeEditor />
+      <div><CodeEditor /></div>
+      
     </div>
   );
 }
